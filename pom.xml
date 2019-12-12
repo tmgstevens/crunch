@@ -107,7 +107,7 @@ under the License.
 
     <kafka.version>0.10.2.1</kafka.version>
     <scala.base.version>2.11</scala.base.version>
-    <scala.version>2.11.8</scala.version>
+    <scala.version>2.13.1</scala.version>
     <scalatest.version>2.2.4</scalatest.version>
     <spark.version>2.0.0</spark.version>
     <jline.version>2.12.1</jline.version>
